@@ -1,17 +1,3 @@
----
-type: exercise
-title: soal osk 2023 no 11 s/d 15
-tags:
-  - osk
-  - '2023'
-  - bagian A
-score: 5
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Tue Aug 01 2023
----
-
 ## Soal 11
 
 Terdapat 2 kotak tertutup yang masing-masing berisi 40 buah. Sebanyak 7 dari 80

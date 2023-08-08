@@ -1,15 +1,3 @@
----
-type: exercise
-title: bebek pak dengklek
-tags:
-  - modulo
-score: 7
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Sun Jul 23 2023
----
-
 Pak Blangkon mendapat kurang dari 500 bebek dari Bu Dengklek.
 
 Jika Pak Blangkon membagi bebek dalam 4 kandang dengan banyak yang sama, tersisa tiga ekor bebek diluar kandang.

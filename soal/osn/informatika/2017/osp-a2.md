@@ -1,16 +1,3 @@
----
-type: exercise
-title: kombinasi pola bilangan
-tags:
-  - kombinasi
-  - teori bilangan
-score: 7
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Sun Jul 23 2023
----
-
 Pak Dengklek sangat suka mengutak-atik bilangan dan memberikan nama untuk sifat unik dari sebuahbilangan. Salah satu sifat unik bilangan yang dlsukal oleh Pak Dengklek adalah Bilangan Menanjak. Sebuah bilangan $X$ disebut Bilangan Menanjak apabila digit-digit dari $X$ menaik dari kiri ke kanan.
 
 Contoh Bilangan Menanjak adalah 122349. Tiba-tiba Pak Dengklek penasaran, ada berapa Bilangan Menanjak yang nilainya yang kurang dari $(10^{10})$.

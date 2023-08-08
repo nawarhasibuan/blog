@@ -1,17 +1,3 @@
----
-type: exercise
-title: osk-a1-5
-tags:
-  - osk
-  - "2023"
-  - bagian A
-score: 5
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Tue Aug 01 2023
----
-
 ## Soal 1
 
 Kwik mempunyai tiga variabel boolean `P`, `Q`, dan `R`. Kwik ingin membuat sebuah

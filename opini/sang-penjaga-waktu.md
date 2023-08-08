@@ -1,15 +1,3 @@
----
-type: article
-title: Resensi Sang Penjaga Waktu
-tags:
-  - waktu
-  - resensi
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Sat Jul 29 2023
----
-
 ## Data Buku
 
 | Data           | Keterangan                                    |

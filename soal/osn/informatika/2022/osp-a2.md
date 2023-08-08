@@ -1,16 +1,3 @@
----
-type: exercise
-title: penerjemah diplomat
-tags:
-  - kombinasi
-  - logika
-score: 7
-author:
-  id: 64b910655d86d8eaf2d6c045
-  name: panawar hasibuan
-date: Sun Jul 23 2023
----
-
 Kwak, Kwik, Kwuk, Kwek, Kwok ditugasi sebagai seorang diplomat. Kwak hanya dapat berbicara bahasa
 Inggris dan Jerman. Kwik hanya berbicara dalam bahasa Perancis, Jepang, dan Cina. Kwuk hanya dapat
 berbicara bahasa Jerman. Kwek hanya berbicara dalam bahasa Inggris, Jepang, dan Cina. Kwok hanya
@@ -37,4 +24,5 @@ Dari tabel diatas dapat dilihat bahwa:
 - Kwek dan Kwok butuh 1 penerjemah
 
 Jadi, dibutuhkan 4 penerjemah.
+
 </details>
